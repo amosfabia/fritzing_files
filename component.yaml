@@ -1,0 +1,46 @@
+kind: ComponentConfiguration/v1
+metadata:
+  guid: a39200a4-b894-4c36-b307-32d42b9c8b5c
+  name: Untitled Configuration
+  version: 
+  description: 
+template:
+  name: Integrated Circuit 2
+  guid: 2cd49d7c-eb1a-4fe4-9104-c45023e3fc95
+properties:
+- name: Header
+  value: LoRa module
+- name: Size
+  value: 16
+- name: Pin0
+  value: GND
+- name: Pin1
+  value: GND
+- name: Pin2
+  value: GND
+- name: Pin3
+  value: NSS
+- name: Pin4
+  value: 3.3v
+- name: Pin5
+  value: MOSI
+- name: Pin6
+  value: RST
+- name: Pin7
+  value: MISO
+- name: Pin8
+  value: DIO0
+- name: Pin9
+  value: SCK
+- name: Pin10
+  value: DIO1
+- name: Pin11
+  value: DIO5
+- name: Pin12
+  value: DIO2
+- name: Pin13
+  value: DIO4
+- name: Pin14
+  value: DIO3
+- name: Pin15
+  value: GND
